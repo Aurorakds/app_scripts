@@ -77,6 +77,19 @@
             }
         ],
     },
+{
+        "name": "豆音",
+        "file": "dy",
+        "version": "4",
+        "cron": "*/20 * * * *",
+        "scope": "",
+        "env": [
+            {
+                "envName": "dyjsbbf",
+                "envHint": ""
+            }
+        ],
+    },
     {
         "name": "美团赚米粒V3",
         "file": "meituanV3",
